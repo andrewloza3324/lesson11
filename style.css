@@ -1,0 +1,20 @@
+.button-text{
+    font-family:monospace;
+    font-size: 25px;
+    justify-content: flex-end;
+    color: white;
+}
+.login-button{
+    text-decoration: none;
+    background-color: black;
+    width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 18px;
+    border-radius: 15px;
+
+}
+.login-ikon{
+    width: 38px;
+}
